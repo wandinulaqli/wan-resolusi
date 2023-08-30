@@ -1,7 +1,10 @@
 -Beli Sepeda Balap.
   - ES 6 (JavaScript)
   - FrameWork Js
-    -Angular
+    -Vue
     -React
 - Belajar Bahasa Inggris
 - Baca Buku yang Rajin
+- PHP Framework
+  -Larafel
+-Python
