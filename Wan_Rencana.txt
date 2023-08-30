@@ -1,3 +1,5 @@
 -Beli Sepeda Balap.
+  - ES 6 (JavaScript)
+  - FrameWork Js
 - Beli Buku yang Banyak.
 - Baca Buku yang Rajin
