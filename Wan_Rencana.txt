@@ -2,6 +2,7 @@
   - ES 6 (JavaScript)
   - FrameWork Js
     -Vue
+    -React
 - Belajar Bahasa Inggris
 - Beli Buku yang Banyak.
 - Baca Buku yang Rajin
